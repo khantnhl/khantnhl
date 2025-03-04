@@ -17,7 +17,7 @@ My name is **Khant!**.
 ### Socials
 
 <p align="left"> 
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/khant-hlaing/)">
+  <a href="https://www.linkedin.com/in/khant-hlaing/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
