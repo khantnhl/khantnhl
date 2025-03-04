@@ -17,8 +17,7 @@ My name is **Khant!**.
 ### Socials
 
 <p align="left"> 
-<a href="mailto: khantnyihlaingkh@gmail.com" target="_blank" rel="noreferrer"><img src="./img/gmail.svg" width="40" height="40" /></a> &nbsp;
-<a href="[[https://skillicons.dev](https://www.linkedin.com/in/khant-hlaing/)](https://www.linkedin.com/in/khant-hlaing/)">
-    <img src="https://skillicons.dev/icons?i=linkedin />
-</a>
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/khant-hlaing/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
