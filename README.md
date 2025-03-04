@@ -14,10 +14,11 @@ My name is **Khant!**.
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,firebase,mysql,postgresql" />
 </div>
 
-
 ### Socials
 
 <p align="left"> 
 <a href="mailto: khantnyihlaingkh@gmail.com" target="_blank" rel="noreferrer"><img src="./img/gmail.svg" width="40" height="40" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/khant-hlaing/" target="_blank" rel="noreferrer"><img src="./img/linkedin.svg" width="40" height="40" padding-top= "100px" /></a> 
+<a href="[[https://skillicons.dev](https://www.linkedin.com/in/khant-hlaing/)](https://www.linkedin.com/in/khant-hlaing/)">
+    <img src="https://skillicons.dev/icons?i=linkedin />
+</a>
 </p>
