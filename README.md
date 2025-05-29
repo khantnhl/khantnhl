@@ -2,8 +2,7 @@
 
 My name is **Khant!**.
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and Data Science, awaiting my transfer admission to one of the UC campuses.
-- 👨‍💻 I have worked on an AI recommendation system recently and I am currently working on a multiclass classification model for ADHD and gender.
+- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science at the University of California, Los Angeles.
 - 🖥 I'm currently learning the intersection of machine learning and software engineering.
 - 💼 I'm also looking for an internship related to SWE or AI/ML for 2025 summer.
 - 📬 Reach out to me via Email: [khantnyihlaingkh@gmail.com](khantnyihlaingkh@gmail.com) or LinkedIn: [Khant Nyi Hlaing](https://www.linkedin.com/in/khant-hlaing/)
