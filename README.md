@@ -1,13 +1,10 @@
 ### Hi! 👋
 
 My name is **Khant!**.
-
-- 🎓 I'm a third year Computer Science student at the University of California, Los Angeles passionate about software, machine learning, and building robust applications.
-
+🎓 I'm a third year Computer Science student at the University of California, Los Angeles passionate about software, machine learning, and building robust applications.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khant-hlaing/)
-Email: [khantnyihlaingkh@gmail.com](khantnyihlaingkh@gmail.com)
 
 # 💻 Tech Stack:
 Languages: 
