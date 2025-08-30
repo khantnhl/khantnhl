@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is **Khant!**.
+My name is **Khant!**
 🎓 I'm a third year Computer Science student at the University of California, Los Angeles passionate about software, machine learning, and building robust applications.
 
 ## 🌐 Connect with me:
